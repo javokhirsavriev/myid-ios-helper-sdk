@@ -11,6 +11,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class MyIdFacemeshHelper {
+  public static let shared: MyIdHelperSDK.MyIdFacemeshHelper
   public func initializeFaceLandmarkerService()
   public func detectFacemesh(sampleBuffer: CoreMedia.CMSampleBuffer, face: Vision.VNFaceObservation)
   public func generateFacemeshData(completion: @escaping (Foundation.Data?) -> Swift.Void)

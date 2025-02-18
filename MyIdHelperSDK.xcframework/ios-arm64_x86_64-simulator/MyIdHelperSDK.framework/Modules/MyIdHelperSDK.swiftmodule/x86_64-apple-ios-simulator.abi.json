@@ -116,6 +116,57 @@
         "printedName": "MyIdFacemeshHelper",
         "children": [
           {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MyIdFacemeshHelper",
+                "printedName": "MyIdHelperSDK.MyIdFacemeshHelper",
+                "usr": "s:13MyIdHelperSDK0ab8FacemeshC0C"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13MyIdHelperSDK0ab8FacemeshC0C6sharedACvpZ",
+            "mangledName": "$s13MyIdHelperSDK0ab8FacemeshC0C6sharedACvpZ",
+            "moduleName": "MyIdHelperSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MyIdFacemeshHelper",
+                    "printedName": "MyIdHelperSDK.MyIdFacemeshHelper",
+                    "usr": "s:13MyIdHelperSDK0ab8FacemeshC0C"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13MyIdHelperSDK0ab8FacemeshC0C6sharedACvgZ",
+                "mangledName": "$s13MyIdHelperSDK0ab8FacemeshC0C6sharedACvgZ",
+                "moduleName": "MyIdHelperSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "initializeFaceLandmarkerService",
             "printedName": "initializeFaceLandmarkerService()",
@@ -322,21 +373,21 @@
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-ios-helper-sdk\/MyIdHelperSDK\/MyIdFacemeshHelper.swift",
       "kind": "StringLiteral",
-      "offset": 290,
+      "offset": 293,
       "length": 55,
       "value": "\"com.google.mediapipe.cameraController.backgroundQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-ios-helper-sdk\/MyIdHelperSDK\/MyIdFacemeshHelper.swift",
       "kind": "StringLiteral",
-      "offset": 427,
+      "offset": 430,
       "length": 66,
       "value": "\"com.google.mediapipe.cameraController.faceLandmarkerServiceQueue\""
     },
     {
       "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-ios-helper-sdk\/MyIdHelperSDK\/MyIdFacemeshHelper.swift",
       "kind": "Array",
-      "offset": 1200,
+      "offset": 1203,
       "length": 2,
       "value": "[]"
     }
