@@ -1,0 +1,6 @@
+framework module MyIdHelperSDK {
+  umbrella header "MyIdHelperSDK.h"
+  export *
+
+  module * { export * }
+}

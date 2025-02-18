@@ -1,0 +1,224 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MyIdHelperSDK",
+    "printedName": "MyIdHelperSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPipeTasksVision",
+        "printedName": "MediaPipeTasksVision",
+        "declKind": "Import",
+        "moduleName": "MyIdHelperSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MyIdFacemeshHelper",
+        "printedName": "MyIdFacemeshHelper",
+        "declKind": "Class",
+        "usr": "s:13MyIdHelperSDK0ab8FacemeshC0C",
+        "mangledName": "$s13MyIdHelperSDK0ab8FacemeshC0C",
+        "moduleName": "MyIdHelperSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 219,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "FloatLiteral",
+      "offset": 272,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "FloatLiteral",
+      "offset": 326,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "FloatLiteral",
+      "offset": 376,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 435,
+      "length": 28,
+      "value": "\"uz.uzinfocom.MyIdHelperSDK\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 484,
+      "length": 17,
+      "value": "\"face_landmarker\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/DefaultConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 511,
+      "length": 6,
+      "value": "\"task\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/Configurations\/InferenceConfigurationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1233,
+      "length": 45,
+      "value": "\"com.google.mediapipe.inferenceConfigChanged\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/MyIdFacemeshHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 290,
+      "length": 55,
+      "value": "\"com.google.mediapipe.cameraController.backgroundQueue\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/MyIdFacemeshHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 427,
+      "length": 66,
+      "value": "\"com.google.mediapipe.cameraController.faceLandmarkerServiceQueue\""
+    },
+    {
+      "filePath": "\/Users\/javokhir\/MyFiles\/Development\/AIIG\/MyID\/myid-helper-sdk\/MyIdHelperSDK\/MyIdFacemeshHelper.swift",
+      "kind": "Array",
+      "offset": 1200,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}
